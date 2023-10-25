@@ -1,4 +1,4 @@
 # halloween havoc 
 
 
-say hi to faavourite ghost casper . 
+say hi to favourite ghost casper . 
